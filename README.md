@@ -16,4 +16,4 @@ Much of the user interface has already been designed by front-end developers, ho
 <li>JavaScript (ES6)</li>
 
 <h2>Setup</h2>
-<p>To view the final output of the project <a href ="">Click here</a>
+<p>To view the final output of the project <a href ="https://astech2021.github.io/workaround/">Click here</a>
